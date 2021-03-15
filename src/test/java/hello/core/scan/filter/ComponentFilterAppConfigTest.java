@@ -34,7 +34,7 @@ public class ComponentFilterAppConfigTest {
 //            @Filter(type = FilterType.ANNOTATION, classes =
 //                    MyExcludeComponent.class),
 //            @Filter(type = FilterType.ASSIGNABLE_TYPE, classes = BeanA.class)
-//    } 
+//    }
     )
     static class ComponentFilterAppConfig {
     }
